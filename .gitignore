@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+
+# Environment variables
+.env
+old_git.zip
